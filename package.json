@@ -1,0 +1,21 @@
+{
+  "name": "image-compress-utility",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.3",
+    "stream": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.6",
+    "typescript": "^5.4.4"
+  }
+}
