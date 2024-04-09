@@ -1,6 +1,6 @@
 {
   "name": "image-compress-utility",
-  "version": "1.2.2",
+  "version": "1.2.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Abismahat",
   "license": "ISC",
   "dependencies": {
     "sharp": "^0.33.3",
