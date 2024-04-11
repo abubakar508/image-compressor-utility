@@ -53,6 +53,7 @@ compressAndUploadImage(fileStream);
 ```bash
 
 // Import necessary modules
+"use client";
 import React, { useState } from 'react';
 import { compressImage } from 'image-compress-utility';
 
